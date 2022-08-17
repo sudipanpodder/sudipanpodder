@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sudipanpodder
-- 👀 I’m interested in writing clean and efficient code
-- 🌱 I’m currently learning python, c, 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Sudipan
+- 👀 I’m interested in writing clean and efficient code.
+- 🌱 I’m currently exploring concepts of DAA.
+- 💞️ I’m looking to collaborate on interesting projects for the betterment of society.
 - 📫 How to reach me ...
 
 <!---
